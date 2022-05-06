@@ -1,0 +1,113 @@
+.s1_c1 {
+    background-image: url(/img/financial271\ 1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.s1_c2 h2 {
+    font-family: 'Unna', serif;
+    text-align: left;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 67px;
+    color: #FFFFFF;
+}
+
+.s1_c2 {
+    height: 100vh;
+    background-color: #181C22;
+}
+
+.s2_c1 {
+    height: 100vh;
+    background-color: #FFFFFF;
+}
+
+.s2_c1 .sub-title {
+    color: #00879B;
+    font-family: 'Unna';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 33px;
+}
+
+.s2_c1 .heading {
+    font-family: 'Unna';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 43px;
+    line-height: 46px;
+    color: #1B1D21;
+}
+
+.s2_c1 .heading .bold-text {
+    font-weight: 700;
+}
+
+.s2_c1 .content {
+    font-family: 'Unna';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 34px;
+    color: #000000;
+}
+
+.s2_c2 {
+    background-image: url(/img/Rectangle\ 33.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.s3_c1 {
+    background-image: url(/img/Rectangle\ 37.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.s3_c2 {
+    height: 100vh;
+    background-color: #181C22;
+}
+
+.s3_c2 .message {
+    font-family: 'Unna';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 81px;
+    color: #FFFFFF;
+}
+
+.s3_c2 img {
+    width: 40%;
+}
+
+.s3_c2 .signacher {
+    font-family: 'Unna';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 81px;
+    color: #B7B7B7;
+}
+
+.divider {
+    width: 20%;
+    border: 1px solid #FFFFFF;
+}
+
+.blue-blod {
+    background: linear-gradient(180deg, #73D3F9 0%, #377191 52.6%, #273D95 67.19%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
